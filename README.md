@@ -25,7 +25,6 @@ Human Rights Hub သည် လူ့အခွင့်အရေးဆိုင�
 ## 🚀 Live Demo
 
 🌐 **Live Website ကြည့်ရှုရန်:** [https://moepyaesandar5537-jpg.github.io/human-rights-hub](https://moepyaesandar5537-jpg.github.io/human-rights-hub)  
-*(GitHub Pages link ရလာပါက ဒီနေရာတွင် အစားထိုးပေးနိုင်ပါသည်)*
 
 ---
 
