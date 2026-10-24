@@ -23,14 +23,12 @@ Human Rights Hub သည် လူ့အခွင့်အရေးဆိုင�
 ---
 
 ## 🚀 Live Demo
-
-🌐 **Live Website ကြည့်ရှုရန်:** [https://moepyaesandar5537-jpg.github.io/human-rights-hub](https://moepyaesandar5537-jpg.github.io/human-rights-hub)  
+🌐 **Live Website:** [Human Rights Hub](https://moepyaesandar5537-jpg.github.io/human-rights-hub)
 
 ---
 
+## 💻 How to Run Locally
 
-## 💻 How to Run Locally (စက်ထဲတွင် စမ်းသပ်ကြည့်ရှုနည်း)
-
-၁။ Repository ကို မိမိစက်ထဲသို့ Clone လုပ်ပါ-
-```bash
-git clone [https://github.com/moepyaesandar5537-jpg/human-rights-hub.git](https://github.com/moepyaesandar5537-jpg/human-rights-hub.git)
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/moepyaesandar5537-jpg/human-rights-hub.git](https://github.com/moepyaesandar5537-jpg/human-rights-hub.git)
